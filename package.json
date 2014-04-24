@@ -1,0 +1,24 @@
+{
+    "name": "datajs_vanilla",
+    "version": "0.1.0",
+    "description": "Simple wrapper for using the vanilla datajs library in Node applications",
+    "main": "datajs_vanilla",
+    "scripts": {
+        "test": "mocha test"
+    },
+    "keywords": [
+        "datajs", "OData", "Microsoft"
+    ],
+    "dependencies": {
+        "xmldom": "~0.1.19",
+        "xmlhttprequest": "~1.6.0",
+        "JSON": "~1.0.0"
+    },
+    "author": "Daniel Weinand (@devployment)",
+    "homepage": "http://devployment.github.io/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/devployment/datajs_vanilla.git"
+    },
+    "license": "MIT"
+}
