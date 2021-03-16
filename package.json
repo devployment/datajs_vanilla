@@ -10,8 +10,8 @@
         "datajs", "OData", "Microsoft"
     ],
     "dependencies": {
-        "xmldom": "~0.1.19",
-        "xmlhttprequest": "~1.6.0",
+        "xmldom": "~0.5.0",
+        "xmlhttprequest": "~1.8.0",
         "JSON": "~1.0.0"
     },
     "author": "Daniel Weinand (@devployment)",
