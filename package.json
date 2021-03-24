@@ -1,6 +1,6 @@
 {
     "name": "datajs_vanilla",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Simple wrapper for using the vanilla datajs library in Node applications",
     "main": "datajs_vanilla",
     "scripts": {
